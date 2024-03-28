@@ -4,4 +4,4 @@ This is a repo with some cool resources I have found relating to Software Engine
 
 ## Relational Databases
 
-- https://www.youtube.com/watch?v=GFQaEYEc8_8
+- [Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF](https://www.youtube.com/watch?v=GFQaEYEc8_8)
